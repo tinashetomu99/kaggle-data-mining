@@ -1,5 +1,0 @@
-venv/*
-!venv/titanic-data-science-solutions.ipynb
-__pycache__/
-*.pyc
-.DS_Store
