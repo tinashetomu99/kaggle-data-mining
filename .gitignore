@@ -1,3 +1,4 @@
 
 .venv/*
-!venv/titanic-data-science-solutions.ipynb
+!.venv/titanic-data-science-solutions.ipynb
+
